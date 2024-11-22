@@ -81,7 +81,7 @@ The server will start at `http://localhost:8080`.
 }
 
 #### Get Redemption
-- **GET** `/transaction/redemption?id{id}`
+- **GET** `/transaction/redemption?transactionId={id}`
 
 
 
