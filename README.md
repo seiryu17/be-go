@@ -38,8 +38,7 @@ A RESTful API for managing brands, vouchers, and redemptions, built with Go usin
 
 4. Run the server
 
-    ```go run main.go
-  ```
+    ```go run main.go```
 
 The server will start at `http://localhost:8080`.
 
